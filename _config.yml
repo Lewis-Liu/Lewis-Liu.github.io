@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://giordano.github.io"
+url: "http://Lewis-Liu.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Mosè Giordano
+title: Lewis
 
 # Short description of your site
 # description: A virtual proof that name is awesome!
@@ -27,7 +27,7 @@ navbar-links:
     - { Home: 'blog/' }
     - { Tags: 'blog/tags/' }
   About Me: "aboutme"
-  Source: "https://github.com/giordano/giordano.github.io/"
+  Source: "https://github.com/Lewis-Liu/Lewis-Liu.github.io/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -63,7 +63,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Mosè Giordano
+  name: Lewis
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -81,13 +81,13 @@ social-network-links:
   rss: true
 #  email: "someone@example.com"
 #  facebook: daattali
-  github: giordano
-  twitter: MoseGiordano
+  github: Lewis-Liu
+#  twitter: Null
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: mose-giordano
+#  linkedin: Null
 #  xing: yourname
-  stackoverflow: "2442087/giordano"
+#  stackoverflow: "NULL"
 #  snapchat: deanat78
 #  instagram: deanat78
 #  youtube: user/deanat78
@@ -122,7 +122,7 @@ social-network-links:
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "giordanogithubio"
+#disqus: "Lewis-Liugithubio"
 
 # Facebook App ID
 # fb_app_id: ""
